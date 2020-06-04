@@ -1,0 +1,7 @@
+module Examination.System.Initial.Repo {
+    requires javafx.fxml;
+    requires javafx.controls;
+    requires java.sql;
+
+    opens sample;
+}
